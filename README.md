@@ -2,8 +2,8 @@
 # About this project
 ## :flushed: A program that reverses the given string and codes it by alphabet position. You can use it in your Python environment.
 
-# Getting started
-You need to have python3 installed. You can install it by [visiting python official site][1]. Also, you need to have pip installed. You can install it by visiting [official site][2]
+# :rocket: Getting started
+You need to have python3 installed. You can install it by visiting [python official site][1]. Also, you need to have pip installed. You can install it by visiting [official site][2]
 1. Open any Python environment
 2. Run the program
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/run.png)
@@ -12,16 +12,16 @@ You need to have python3 installed. You can install it by [visiting python offic
 4. Get the output
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/output.png)
 
-# Try it
+# :fire: Try it
 if you are not convinced yet just try it out by following 3 easy steps:
 1. Open [code][5] and copy it
 2. Paste copied code to any online Python interpreter for instance [this][6]
 3. Run it and enter your string!!!
 
-# Reporting Issues
+# :stuck_out_tongue_winking_eye: Reporting Issues
 If youu experience bugs or weird behavior please create an issue [on the bug tracker][7].
 
-# Credits
+# :purple_heart: Credits
 * [nailyav][3]
 * [ease-ln][4]
 
