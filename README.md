@@ -9,4 +9,3 @@
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/input.png)
 4. Get the output
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/output.png)
-# 
