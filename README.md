@@ -3,9 +3,10 @@
 
 # Getting started
 1. Open any Python environment
-3. Run the program
-![image]https://github.com/nailyav/ssad/tree/main/screenshots
-5. Input any string
-6. Get the output
-
+2. Run the program
+![image](https://github.com/nailyav/ssad/tree/main/screenshots)
+3. Input any string
+![image](https://github.com/nailyav/ssad/tree/main/screenshots)
+4. Get the output
+![image](https://github.com/nailyav/ssad/tree/main/screenshots)
 # 
