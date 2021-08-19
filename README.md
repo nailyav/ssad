@@ -13,8 +13,10 @@ You need to have python3 installed. You can install it by [visiting python offic
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/output.png)
 
 # Credits
-* nailyav
-* ease-ln
+* [nailyav][3]
+* [ease-ln][4]
 
 [1]: https://www.python.org/
 [2]: https://pip.pypa.io/en/stable/installation/
+[3]: https://github.com/nailyav
+[4]: https://github.com/ease-ln
