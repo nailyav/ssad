@@ -1,6 +1,6 @@
 # Reverse the string and code using alphabet position
 # About this project
-## A program that reverses the given string and codes it by alphabet position. You can use it in you Python invironment.
+## A program that reverses the given string and codes it by alphabet position. You can use it in your Python invironment.
 
 # Getting started
 You need to have python3 installed. You can install it by [visiting python official site][1]. Also you need to have pip installed. You can install it by visiting [official site][2]
