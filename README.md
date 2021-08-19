@@ -4,8 +4,9 @@
 
 # :rocket: Getting started
 You need to have python3 installed. You can install it by visiting [python official site][1]. Also, you need to have pip installed. You can install it by visiting [official site][2]
-1. Open any Python environment
-2. Run the program
+1. Open any Python environment 
+2. Clone directory 
+3. Run the program via environment
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/run.png)
 3. Input any string
 ![image](https://github.com/nailyav/ssad/blob/main/screenshots/input.png)
