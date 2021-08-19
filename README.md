@@ -18,6 +18,9 @@ if you are not convinced yet just try it out by following 3 easy steps:
 2. Paste copied code to any online Python interpreter for instance [this][6]
 3. Run it and enter your string!!!
 
+# Reporting Issues
+If youu experience bugs or weird behavior please create an issue [on the bug tracker][7].
+
 # Credits
 * [nailyav][3]
 * [ease-ln][4]
@@ -28,3 +31,4 @@ if you are not convinced yet just try it out by following 3 easy steps:
 [4]: https://github.com/ease-ln
 [5]: https://github.com/nailyav/ssad/blob/main/program/main.py
 [6]: https://www.online-python.com/
+[7]: https://github.com/nailyav/ssad/issues
